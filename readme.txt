@@ -12,4 +12,8 @@ Git is free software
 
 create a new branch is quick
 
-同时关联  github&gitlab
+ github&gitlab
+
+use english lol
+
+I feel strongly that i can make it!
