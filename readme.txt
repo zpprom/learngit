@@ -11,3 +11,5 @@ Git is free software
 44444444444444
 
 create a new branch is quick
+
+同时关联  github&gitlab
